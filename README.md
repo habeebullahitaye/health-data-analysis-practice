@@ -10,3 +10,6 @@ This repository is my practice project for learning Git, GitHub, data analysis, 
 - Power BI
 - Data analysis
 - Research and statistics
+## Practice Analysis
+
+This section is for practising data analysis and open-source workflows.
